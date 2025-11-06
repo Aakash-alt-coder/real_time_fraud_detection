@@ -1,8 +1,3 @@
-# Real-Time Fraud Detection & Analytics Platform (Azure Cloud)
-
-## Overview
-A production-ready data engineering project that ingests streaming financial transactions, detects fraudulent activity in real-time, and provides dashboards for analytics.
-
 ## Features
 - Real-time streaming ingestion using Azure Event Hub
 - Lakehouse architecture (Bronze/Silver/Gold) in ADLS Gen2
@@ -25,4 +20,4 @@ A production-ready data engineering project that ingests streaming financial tra
 <Insert full folder structure here>
 
 ## Architecture Diagram
-<Attach ARCHITECTURE.md diagram>
+For the detailed architecture diagram, see [ARCHITECTURE.md](docs/ARCHITECTURE.md)
