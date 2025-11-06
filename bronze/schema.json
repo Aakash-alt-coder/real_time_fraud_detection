@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {"name": "user_id", "type": "string"},
+    {"name": "transaction_id", "type": "string"},
+    {"name": "amount", "type": "double"},
+    {"name": "currency", "type": "string"},
+    {"name": "merchant_id", "type": "string"},
+    {"name": "timestamp", "type": "string"},
+    {"name": "location", "type": "string"},
+    {"name": "device_type", "type": "string"},
+    {"name": "device_id", "type": "string"},
+    {"name": "payment_method", "type": "string"}
+  ]
+}

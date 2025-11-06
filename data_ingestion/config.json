@@ -1,0 +1,6 @@
+{
+  "event_hub_namespace": "<YOUR_EVENT_HUB_NAMESPACE>",
+  "event_hub_name": "<YOUR_EVENT_HUB_NAME>",
+  "sas_key_name": "<YOUR_SAS_KEY_NAME>",
+  "sas_key": "<YOUR_SAS_KEY>"
+}

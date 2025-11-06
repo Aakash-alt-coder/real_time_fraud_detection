@@ -1,0 +1,4 @@
+user_id,transaction_id,amount,currency,merchant_id,timestamp,location,device_type,device_id,payment_method
+u1,t1,100.0,USD,m1,2025-11-06T12:00:00Z,New York,mobile,d1,credit_card
+u2,t2,250.5,EUR,m2,2025-11-06T12:01:00Z,Berlin,desktop,d2,paypal
+u3,t3,500.0,GBP,m3,2025-11-06T12:02:00Z,London,tablet,d3,debit_card

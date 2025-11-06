@@ -1,0 +1,20 @@
+{
+  "name": "FraudDetectionPipeline",
+  "activities": [
+    {
+      "name": "BronzeIngestion",
+      "type": "DatabricksNotebook",
+      "notebookPath": "/bronze/ingest_to_adls"
+    },
+    {
+      "name": "SilverTransform",
+      "type": "DatabricksNotebook",
+      "notebookPath": "/silver/clean_transform_notebook"
+    },
+    {
+      "name": "GoldScoring",
+      "type": "DatabricksNotebook",
+      "notebookPath": "/gold/fraud_scoring_notebook"
+    }
+  ]
+}
