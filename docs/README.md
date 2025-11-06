@@ -20,4 +20,4 @@
 See the [docs/ARCHITECTURE.md](ARCHITECTURE.md) for diagrams and detailed folder explanation.
 
 ## Architecture Diagram
-![Architecture Diagram](ARCHITECTURE.png)
+![Architecture Diagram](ARCHITECTURE.md)
