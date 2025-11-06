@@ -17,7 +17,7 @@
 7. Access dashboards in Power BI
 
 ## Folder Structure
-<Insert full folder structure here>
+See the [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for diagrams and detailed folder explanation.
 
 ## Architecture Diagram
-For the detailed architecture diagram, see [ARCHITECTURE.md](docs/ARCHITECTURE.md)
+![Architecture Diagram](docs/ARCHITECTURE.png)
